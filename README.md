@@ -6,6 +6,6 @@ David Tran - Bubble Sort
 
 William Armstrong - Tree Sort
 
-Jordan Buoy - Comb Sort
+Jordan Bui - Comb Sort
 
 Nicholas Nguyen - Heap Sort
