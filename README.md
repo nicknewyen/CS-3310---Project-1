@@ -9,3 +9,4 @@ William Armstrong - Tree Sort
 Jordan Bui - Comb Sort
 
 Nicholas Nguyen - Heap Sort
+
